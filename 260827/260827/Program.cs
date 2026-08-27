@@ -14,6 +14,6 @@ public class Program
     // 여기에 팀원 소개 메서드를 하나씩 추가합니다.
     public static void Rauald()
     {
-        Console.WriteLine("안녀하세요. 팀장 권경민 입니다.");
+        Console.WriteLine("권경민 / 안녕하세요.");
     }
 }
