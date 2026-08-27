@@ -1,16 +1,20 @@
 ﻿using System;
 
-public class Program
-{
-    public static void Main()
-    {
+public class Program  
+{  
+    public static void Main()  
+    {  
         Console.WriteLine("=== 8조 팀원 소개 ===");
-
-        // 여기에 팀원 소개 호출을 한 줄씩 추가합니다.
+        // 여기에 팀원 소개 호출을 한 줄씩 추가합니다
+        IntroMark();
         Rauald();
         Imjatdummy();
-
-        Console.WriteLine("=== 소개 끝 ===");
+        Console.WriteLine("=== 소개 끝 ===");  
+    }
+    // 여기에 팀원 소개 메서드를 하나씩 추가합니다    
+    public static void IntroMark()  
+    {  
+        Console.WriteLine("강예찬 / 8조 버전관리 과제");
     }
 
     // 여기에 팀원 소개 메서드를 하나씩 추가합니다.
